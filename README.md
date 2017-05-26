@@ -1,5 +1,5 @@
 # Self Driving RC car
-- This project is aimed to modify a RC car to drive autonomously via help of feed from camera and Ultrasonic sensor.
+- This project is aimed to modify a RC car to drive autonomously via help of feed from camera and Ultrasonic sensor using raspberry pi board.
   - Tasks:
       - detect humans.
       - detect red traffic light
